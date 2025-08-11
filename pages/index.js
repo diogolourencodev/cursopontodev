@@ -3,7 +3,7 @@ import Script from 'next/script';
 
 function Home() {
   function handleClick() {
-    alert('Você clicou!');
+    alert('Obrigado por ver isso. Espero que seu dia/tarde/noite seja ou esteja sendo maravilhosa <3');
   }
 
   return (
